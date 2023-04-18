@@ -1,8 +1,8 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongTaeHoon&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongTaeHoon&show_icons=true&theme=radical&bg_color=141321&title_color=fff&text_color=fff)
 
-
+<a href="https://github.com/HongTaeHoon"><img align="center" style="width:467px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongTaeHoon&layout=compact&hide_border=true&bg_color=141321&title_color=fff&text_color=fff&" /></a>
 
 ### Tools
 
