@@ -3,8 +3,7 @@
 
 <a href="https://github.com/HongTaeHoon"><img align="center" style="width:467px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongTaeHoon&layout=compact&hide_border=true&bg_color=141321&title_color=fff&text_color=fff&" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4
+[![trophy](https://github-profile-trophy.vercel.app/?username=HongTaeHoon&row=2&column=4&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Tools
 
